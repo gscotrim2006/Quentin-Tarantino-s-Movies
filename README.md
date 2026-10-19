@@ -46,7 +46,7 @@ Para clonar e rodar este projeto em sua máquina:
 
 Ou se não quiser clonar nada (clique com o botão do meio para abrir numa nova aba):
 
-[Site hospedado no github-pages](https://gscotrim2006.github.io/Trabalho-de-Geografia/)
+[Site hospedado no github-pages](https://gscotrim2006.github.io/Quentin-Tarantino-s-Movies/)
 
 ---
 
