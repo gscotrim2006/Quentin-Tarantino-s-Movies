@@ -44,6 +44,10 @@ Para clonar e rodar este projeto em sua máquina:
    - Basta dar um duplo clique no arquivo `index.html` ou abri-lo diretamente em seu navegador preferido.
    - Caso utilize o VS Code, você pode usar a extensão **Live Server** para rodar um servidor local.
 
+Ou se não quiser clonar nada (clique com o botão do meio para abrir numa nova aba):
+
+[Site hospedado no github-pages](https://gscotrim2006.github.io/Trabalho-de-Geografia/)
+
 ---
 
 ## Licença
