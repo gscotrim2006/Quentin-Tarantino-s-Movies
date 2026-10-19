@@ -32,7 +32,7 @@ Para clonar e rodar este projeto em sua máquina:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/GuisoBiso67/Quentin-Tarantino-s-Movies.git
+   git clone https://github.com/gscotrim2006/Quentin-Tarantino-s-Movies.git
    ```
 
 2. **Navegue até a pasta do projeto:**
@@ -52,4 +52,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-<p>Desenvolvido por <a href="https://github.com/GuisoBiso67">GuisoBiso67</a> 🎬</p>
+<p>Desenvolvido por <a href="https://github.com/gscotrim2006">gscotrim2006</a> 🎬</p>
